@@ -1,14 +1,14 @@
-# email-text-area
-for implementing a text area which recognizes if the text is email or not. Red border comes if the email ain't valid.
+<h2>email-text-area</h2>
+<h3>for implementing a text area which recognizes if the text is email or not. Red border comes if the email ain't valid.</h3>
 
 
 Steps to deploy:
-
-1)Install the module with: npm install 
-2) run: gulp
-3)launch index.html
-
-
-4) type in text box which appears
-5) press space after each email
-6) if email is invalid a red border appears around the email tag
+<ol>
+<li>Install the module with: npm install </li>
+<li>run: gulp</li>
+<li>launch index.html</li>
+<li>type in text box which appears</li>
+<li> press space after each email</li>
+<li>if email is invalid a red border appears around the email tag</li>
+</ol>
+<a href="https://rawgit.com/shishirarora3/email-text-area/master/index.html">Demo</a>
